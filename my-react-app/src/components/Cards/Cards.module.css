@@ -1,0 +1,24 @@
+.container{
+    margin-top: 50px;
+}
+.card{
+    margin: 0 2% !important ;
+    
+    
+}
+.infected{
+    padding-top: 1000rem;
+    border-bottom: 10px solid red;
+    
+}
+.deaths   {
+    border-bottom: 10px solid black;
+    padding-top: 10000rem;
+}
+.recovered{
+    border-bottom: 10px solid green;
+    margin-top: 5cm;
+}
+body{
+    background-color: green;
+}
